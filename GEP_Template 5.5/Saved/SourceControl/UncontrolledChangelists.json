@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Will/Documents/GitHub/gep-25-26-unreal-template-Wilvy10/GEP_Template 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Will/Documents/GitHub/gep-25-26-unreal-template-Wilvy10/GEP_Template 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HG/083R3ULQXT2NMF26UUYTGT.uasset",
+				"C:/Users/Will/Documents/GitHub/gep-25-26-unreal-template-Wilvy10/GEP_Template 5.5/Content/fish.uasset",
+				"C:/Users/Will/Documents/GitHub/gep-25-26-unreal-template-Wilvy10/GEP_Template 5.5/Content/Material.uasset",
+				"C:/Users/Will/Documents/GitHub/gep-25-26-unreal-template-Wilvy10/GEP_Template 5.5/Content/TEX_fish_texture.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
